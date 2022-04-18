@@ -18,4 +18,4 @@ It's simple to use. You just need to download and execute they scripts on the se
 ## License 
 
 > Copyright (C) 2021 - 2022 
-> Nassim Saqqaf (nassim.saqqaf@protonmail.com)
+> Nassim Saqqaf (rawbypa@protonmail.com)
